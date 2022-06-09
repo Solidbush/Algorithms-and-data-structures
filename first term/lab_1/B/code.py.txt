@@ -1,0 +1,10 @@
+import math
+f = open('aplusbb.in', 'r')
+line = f.readline()
+lst = line.split()
+f.close()
+a = int(lst[0])
+b = int(lst[1])
+f = open('aplusbb.out', 'w')
+f.write(str(a + pow(b, 2)))
+f.close()

@@ -1,0 +1,3 @@
+D:/Algorithms and data structures/second term/lab_8/A/cmake-build-debug/CMakeFiles/A.dir
+D:/Algorithms and data structures/second term/lab_8/A/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Algorithms and data structures/second term/lab_8/A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
